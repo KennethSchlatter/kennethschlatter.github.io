@@ -1,4 +1,4 @@
 AuthName “December Song Files”
-AuthUserFile /december_song/.htpassword
+AuthUserFile /december_song/.htpasswd
 AuthType Basic
 require valid-user
