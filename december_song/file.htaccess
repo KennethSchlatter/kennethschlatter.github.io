@@ -1,0 +1,4 @@
+AuthName “December Song Files”
+AuthUserFile ./.htpassword
+AuthType Basic
+require valid-user
